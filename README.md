@@ -15,9 +15,9 @@
 ```
 ![](https://latex.codecogs.com/png.latex?\frac{1}{2}\times\sin(x))
 ```
-<img src="https://latex.codecogs.com/png.latex?\frac{1}{2}\times x\times\sin(x)">
+<img src="https://latex.codecogs.com/png.latex?\frac{1}{2}\times&space;x\times\sin(x)">
 ```
-<img src="https://latex.codecogs.com/png.latex?\frac{1}{2}\times x\times\sin(x)">
+<img src="https://latex.codecogs.com/png.latex?\frac{1}{2}\times&space;x\times\sin(x)">
 
 ***
 ## 作品协议许可
