@@ -2,22 +2,7 @@
 > Created by Scimen Phy
 > 
 > 2020-08-28
-
-## 添加公式：
-**使用**
-```
-![](https://latex.codecogs.com/png.latex?<Latex Code>)
-<img src="https://latex.codecogs.com/png.latex?<Latex Code>" />
-```
-**e.g.**
-```
-![](https://latex.codecogs.com/png.latex?\frac{1}{2}\times\sin(x))
-```
-![](https://latex.codecogs.com/png.latex?\frac{1}{2}\times\sin(x))
-```
-<img src="https://latex.codecogs.com/png.latex?\frac{1}{2}\times&space;x\times\sin(x)">
-```
-<img src="https://latex.codecogs.com/png.latex?\frac{1}{2}\times&space;x\times\sin(x)">
+## 目录
 
 ***
 ## 作品协议许可
