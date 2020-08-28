@@ -3,23 +3,24 @@
 > 
 > 2020-08-28
 
-**添加公式：**
+## 添加公式：
+**使用**
 ```
-![](https://latex.codecogs.com/gif.latex?<Latex Code>)
-<img src="https://latex.codecogs.com/gif.latex?<Latex Code>" />
+![](https://latex.codecogs.com/png.latex?<Latex Code>)
+<img src="https://latex.codecogs.com/png.latex?<Latex Code>" />
 ```
-e.g.
+**e.g.**
 ```
-![](https://latex.codecogs.com/gif.latex?\frac{1}{2}\times\sin(x))
+![](https://latex.codecogs.com/png.latex?\frac{1}{2}\times\sin(x))
 ```
-![](https://latex.codecogs.com/gif.latex?\frac{1}{2}\times\sin(x))
+![](https://latex.codecogs.com/png.latex?\frac{1}{2}\times\sin(x))
 ```
-<img src="https://latex.codecogs.com/gif.latex?\frac{1}{2}\times\sin(x)">
+<img src="https://latex.codecogs.com/png.latex?\frac{1}{2}\times\sin(x)">
 ```
-<img src="https://latex.codecogs.com/gif.latex?\frac{1}{2}\times\sin(x)">
+<img src="https://latex.codecogs.com/png.latex?\frac{1}{2}\times\sin(x)">
 
 ***
-作品协议许可<禁止更改协议内容>
-***
+## 作品协议许可
+**<禁止更改协议内容>**
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
